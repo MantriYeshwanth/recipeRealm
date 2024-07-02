@@ -1,0 +1,16 @@
+.feedback-container {
+  padding: 5rem 0;
+  background-color: #f8f9fa;
+}
+
+.feedback-container h1 {
+  color: #343a40;
+}
+
+.feedback-container label {
+  font-weight: bold;
+}
+
+.feedback-container button {
+  margin-top: 1.5rem;
+}

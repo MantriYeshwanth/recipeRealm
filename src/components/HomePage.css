@@ -1,0 +1,9 @@
+.home-Page {
+    background-image: url("./background.jpg");
+    background-size:auto;
+    background-position: center;
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
